@@ -20,3 +20,16 @@ git branch -M main
 git push -u origin main
 ```
 
+
+
+---
+
+git log
+
+git reflog
+
+---
+
+stash 暫存目前檔案
+
+pop 恢復stash
