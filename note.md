@@ -14,8 +14,9 @@ git diff
 
 git .keep or .gitkeep
 
-dev
+```git
+git remote add origin https://github.com/oxygen-TW/dsc-test-repo.git
+git branch -M main
+git push -u origin main
+```
 
-dev
-
-dev
